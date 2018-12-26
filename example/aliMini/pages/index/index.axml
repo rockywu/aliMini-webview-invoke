@@ -1,0 +1,1 @@
+<web-view id="invoke-id" onMessage="invokeMessage" src="{{ webUrl }}"></web-view>

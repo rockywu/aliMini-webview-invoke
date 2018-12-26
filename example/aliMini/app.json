@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "蘑菇租房"
+  },
+  "tabBar": {
+    "textColor": "#333",
+    "selectedColor": "#FA5F05",
+    "backgroundColor": "#FFF",
+    "items": [
+      {
+        "icon": "https://assets.mgzf.com/appimg/02920274fa14387f57747b71f568c81a.png",
+        "activeIcon": "https://assets.mgzf.com/appimg/a1c0b4ce64285eb409e4a2518e5f4566.png",
+        "name": "首页",
+        "pagePath": "pages/index/index"
+      }
+    ]
+  }
+}
